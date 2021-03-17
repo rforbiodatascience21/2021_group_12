@@ -4,9 +4,10 @@ author: "Natasia Thornval"
 date: "15/03/2021"
 output: html_document
 ---
-ujljhlojnli
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Description
+This reposity contains an automated PCA analysis of the gravier.Rdata dataset.
